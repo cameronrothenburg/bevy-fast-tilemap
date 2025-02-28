@@ -10,12 +10,12 @@ repository = "https://github.com/Droggelbecher/bevy-fast-tilemap"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = "0.14.*"
+bevy = "0.15.*"
 rand = "0.8.*"
 num = "0.4.*"
 
 [dev-dependencies]
-bevy = "0.14"
+bevy = "0.15"
 bevy-inspector-egui = { version = "0.25.2" }
 
 [lib]
